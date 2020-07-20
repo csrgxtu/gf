@@ -11,7 +11,6 @@ import (
 	"fmt"
 	"github.com/csrgxtu/gf/container/gmap"
 	"github.com/csrgxtu/gf/net/gtcp"
-	"github.com/csrgxtu/gf/os/gfcache"
 	"github.com/csrgxtu/gf/os/gfile"
 	"github.com/csrgxtu/gf/util/gconv"
 )
