@@ -1,8 +1,8 @@
-// Copyright 2018 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2018 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 package ghttp
 
@@ -10,20 +10,20 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/gogf/gf/text/gstr"
+	"github.com/csrgxtu/gf/text/gstr"
 	"os"
 	"runtime"
 	"strings"
 	"sync"
 	"time"
 
-	"github.com/gogf/gf/container/gtype"
-	"github.com/gogf/gf/encoding/gjson"
-	"github.com/gogf/gf/os/glog"
-	"github.com/gogf/gf/os/gproc"
-	"github.com/gogf/gf/os/gtime"
-	"github.com/gogf/gf/os/gtimer"
-	"github.com/gogf/gf/util/gconv"
+	"github.com/csrgxtu/gf/container/gtype"
+	"github.com/csrgxtu/gf/encoding/gjson"
+	"github.com/csrgxtu/gf/os/glog"
+	"github.com/csrgxtu/gf/os/gproc"
+	"github.com/csrgxtu/gf/os/gtime"
+	"github.com/csrgxtu/gf/os/gtimer"
+	"github.com/csrgxtu/gf/util/gconv"
 )
 
 const (

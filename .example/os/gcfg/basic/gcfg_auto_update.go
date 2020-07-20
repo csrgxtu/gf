@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gogf/gf/os/gtimer"
+	"github.com/csrgxtu/gf/os/gtimer"
 
-	"github.com/gogf/gf/frame/g"
+	"github.com/csrgxtu/gf/frame/g"
 )
 
 // 配置文件热更新示例

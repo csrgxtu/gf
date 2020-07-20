@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/gogf/gf/encoding/gjson"
-	"github.com/gogf/gf/os/glog"
-	"github.com/gogf/gf/os/gtime"
+	"github.com/csrgxtu/gf/encoding/gjson"
+	"github.com/csrgxtu/gf/os/glog"
+	"github.com/csrgxtu/gf/os/gtime"
 )
 
 func getByPattern() {

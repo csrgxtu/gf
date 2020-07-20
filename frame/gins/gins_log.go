@@ -1,15 +1,15 @@
-// Copyright 2019 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2019 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 package gins
 
 import (
 	"fmt"
-	"github.com/gogf/gf/os/glog"
-	"github.com/gogf/gf/util/gutil"
+	"github.com/csrgxtu/gf/os/glog"
+	"github.com/csrgxtu/gf/util/gutil"
 )
 
 const (

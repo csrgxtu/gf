@@ -3,8 +3,8 @@ package main
 import (
 	"sync"
 
-	"github.com/gogf/gf/os/glog"
-	"github.com/gogf/gf/os/gmlock"
+	"github.com/csrgxtu/gf/os/glog"
+	"github.com/csrgxtu/gf/os/gmlock"
 )
 
 // 内存锁 - 给定过期时间

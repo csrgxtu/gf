@@ -1,25 +1,25 @@
-// Copyright 2019 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2019 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 package gdb_test
 
 import (
 	"database/sql"
 	"fmt"
-	"github.com/gogf/gf/container/garray"
-	"github.com/gogf/gf/container/gmap"
-	"github.com/gogf/gf/util/gutil"
+	"github.com/csrgxtu/gf/container/garray"
+	"github.com/csrgxtu/gf/container/gmap"
+	"github.com/csrgxtu/gf/util/gutil"
 	"testing"
 	"time"
 
-	"github.com/gogf/gf/database/gdb"
+	"github.com/csrgxtu/gf/database/gdb"
 
-	"github.com/gogf/gf/frame/g"
-	"github.com/gogf/gf/os/gtime"
-	"github.com/gogf/gf/test/gtest"
+	"github.com/csrgxtu/gf/frame/g"
+	"github.com/csrgxtu/gf/os/gtime"
+	"github.com/csrgxtu/gf/test/gtest"
 )
 
 func Test_Model_Insert(t *testing.T) {

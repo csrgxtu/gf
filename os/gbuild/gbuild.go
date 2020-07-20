@@ -1,19 +1,19 @@
-// Copyright 2019 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2019 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 // Package gbuild manages the build-in variables from "gf build".
 package gbuild
 
 import (
-	"github.com/gogf/gf"
-	"github.com/gogf/gf/container/gvar"
-	"github.com/gogf/gf/encoding/gbase64"
-	"github.com/gogf/gf/internal/intlog"
-	"github.com/gogf/gf/internal/json"
-	"github.com/gogf/gf/util/gconv"
+	"github.com/csrgxtu/gf"
+	"github.com/csrgxtu/gf/container/gvar"
+	"github.com/csrgxtu/gf/encoding/gbase64"
+	"github.com/csrgxtu/gf/internal/intlog"
+	"github.com/csrgxtu/gf/internal/json"
+	"github.com/csrgxtu/gf/util/gconv"
 	"runtime"
 )
 

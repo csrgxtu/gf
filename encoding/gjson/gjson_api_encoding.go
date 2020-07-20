@@ -1,18 +1,18 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 package gjson
 
 import (
-	"github.com/gogf/gf/encoding/gini"
-	"github.com/gogf/gf/encoding/gtoml"
-	"github.com/gogf/gf/encoding/gxml"
-	"github.com/gogf/gf/encoding/gyaml"
-	"github.com/gogf/gf/internal/json"
-	"github.com/gogf/gf/util/gconv"
+	"github.com/csrgxtu/gf/encoding/gini"
+	"github.com/csrgxtu/gf/encoding/gtoml"
+	"github.com/csrgxtu/gf/encoding/gxml"
+	"github.com/csrgxtu/gf/encoding/gyaml"
+	"github.com/csrgxtu/gf/internal/json"
+	"github.com/csrgxtu/gf/util/gconv"
 )
 
 // ========================================================================

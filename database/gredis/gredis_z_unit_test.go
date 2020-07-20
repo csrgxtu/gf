@@ -1,23 +1,23 @@
-// Copyright 2019 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2019 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 package gredis_test
 
 import (
-	"github.com/gogf/gf/container/gvar"
-	"github.com/gogf/gf/frame/g"
-	"github.com/gogf/gf/util/guid"
+	"github.com/csrgxtu/gf/container/gvar"
+	"github.com/csrgxtu/gf/frame/g"
+	"github.com/csrgxtu/gf/util/guid"
 	"testing"
 	"time"
 
-	"github.com/gogf/gf/os/gtime"
-	"github.com/gogf/gf/util/gconv"
+	"github.com/csrgxtu/gf/os/gtime"
+	"github.com/csrgxtu/gf/util/gconv"
 
-	"github.com/gogf/gf/database/gredis"
-	"github.com/gogf/gf/test/gtest"
+	"github.com/csrgxtu/gf/database/gredis"
+	"github.com/csrgxtu/gf/test/gtest"
 	redis2 "github.com/gomodule/redigo/redis"
 )
 

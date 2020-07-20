@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gogf/gf/os/gtime"
+	"github.com/csrgxtu/gf/os/gtime"
 )
 
 func main() {

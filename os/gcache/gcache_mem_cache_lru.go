@@ -1,18 +1,18 @@
-// Copyright 2018 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2018 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 package gcache
 
 import (
 	"time"
 
-	"github.com/gogf/gf/container/glist"
-	"github.com/gogf/gf/container/gmap"
-	"github.com/gogf/gf/container/gtype"
-	"github.com/gogf/gf/os/gtimer"
+	"github.com/csrgxtu/gf/container/glist"
+	"github.com/csrgxtu/gf/container/gmap"
+	"github.com/csrgxtu/gf/container/gtype"
+	"github.com/csrgxtu/gf/os/gtimer"
 )
 
 // LRU cache object.

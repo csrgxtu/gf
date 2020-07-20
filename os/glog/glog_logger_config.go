@@ -1,18 +1,18 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 package glog
 
 import (
 	"errors"
 	"fmt"
-	"github.com/gogf/gf/internal/intlog"
-	"github.com/gogf/gf/os/gfile"
-	"github.com/gogf/gf/util/gconv"
-	"github.com/gogf/gf/util/gutil"
+	"github.com/csrgxtu/gf/internal/intlog"
+	"github.com/csrgxtu/gf/os/gfile"
+	"github.com/csrgxtu/gf/util/gconv"
+	"github.com/csrgxtu/gf/util/gutil"
 	"io"
 	"strings"
 	"time"

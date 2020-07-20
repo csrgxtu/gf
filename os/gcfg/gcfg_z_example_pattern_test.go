@@ -1,16 +1,16 @@
-// Copyright 2020 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2020 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 package gcfg_test
 
 import (
 	"fmt"
-	"github.com/gogf/gf/frame/g"
-	"github.com/gogf/gf/internal/intlog"
-	"github.com/gogf/gf/os/gcfg"
+	"github.com/csrgxtu/gf/frame/g"
+	"github.com/csrgxtu/gf/internal/intlog"
+	"github.com/csrgxtu/gf/os/gcfg"
 )
 
 func Example_mapSliceChange() {

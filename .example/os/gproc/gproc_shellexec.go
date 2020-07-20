@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gogf/gf/os/gproc"
+	"github.com/csrgxtu/gf/os/gproc"
 )
 
 // 执行shell指令

@@ -1,11 +1,11 @@
 package gfpool_test
 
 import (
-	"github.com/gogf/gf/os/gfile"
-	"github.com/gogf/gf/os/gfpool"
-	"github.com/gogf/gf/os/gtime"
-	"github.com/gogf/gf/test/gtest"
-	"github.com/gogf/gf/text/gstr"
+	"github.com/csrgxtu/gf/os/gfile"
+	"github.com/csrgxtu/gf/os/gfpool"
+	"github.com/csrgxtu/gf/os/gtime"
+	"github.com/csrgxtu/gf/test/gtest"
+	"github.com/csrgxtu/gf/text/gstr"
 	"os"
 	"testing"
 )

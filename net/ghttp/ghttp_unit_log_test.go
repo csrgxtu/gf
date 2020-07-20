@@ -1,8 +1,8 @@
-// Copyright 2018 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2018 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 // static service testing.
 
@@ -10,15 +10,15 @@ package ghttp_test
 
 import (
 	"fmt"
-	"github.com/gogf/gf/os/gtime"
-	"github.com/gogf/gf/text/gstr"
+	"github.com/csrgxtu/gf/os/gtime"
+	"github.com/csrgxtu/gf/text/gstr"
 	"testing"
 	"time"
 
-	"github.com/gogf/gf/frame/g"
-	"github.com/gogf/gf/net/ghttp"
-	"github.com/gogf/gf/os/gfile"
-	"github.com/gogf/gf/test/gtest"
+	"github.com/csrgxtu/gf/frame/g"
+	"github.com/csrgxtu/gf/net/ghttp"
+	"github.com/csrgxtu/gf/os/gfile"
+	"github.com/csrgxtu/gf/test/gtest"
 )
 
 func Test_Log(t *testing.T) {

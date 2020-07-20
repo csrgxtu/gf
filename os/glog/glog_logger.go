@@ -1,8 +1,8 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 package glog
 
@@ -10,22 +10,22 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"github.com/gogf/gf/internal/intlog"
-	"github.com/gogf/gf/os/gfpool"
-	"github.com/gogf/gf/os/gmlock"
-	"github.com/gogf/gf/os/gtimer"
+	"github.com/csrgxtu/gf/internal/intlog"
+	"github.com/csrgxtu/gf/os/gfpool"
+	"github.com/csrgxtu/gf/os/gmlock"
+	"github.com/csrgxtu/gf/os/gtimer"
 	"io"
 	"os"
 	"strings"
 	"sync"
 	"time"
 
-	"github.com/gogf/gf/debug/gdebug"
+	"github.com/csrgxtu/gf/debug/gdebug"
 
-	"github.com/gogf/gf/os/gfile"
-	"github.com/gogf/gf/os/gtime"
-	"github.com/gogf/gf/text/gregex"
-	"github.com/gogf/gf/util/gconv"
+	"github.com/csrgxtu/gf/os/gfile"
+	"github.com/csrgxtu/gf/os/gtime"
+	"github.com/csrgxtu/gf/text/gregex"
+	"github.com/csrgxtu/gf/util/gconv"
 )
 
 // Logger is the struct for logging management.

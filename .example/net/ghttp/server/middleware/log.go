@@ -3,10 +3,10 @@ package main
 import (
 	"net/http"
 
-	"github.com/gogf/gf/os/glog"
+	"github.com/csrgxtu/gf/os/glog"
 
-	"github.com/gogf/gf/frame/g"
-	"github.com/gogf/gf/net/ghttp"
+	"github.com/csrgxtu/gf/frame/g"
+	"github.com/csrgxtu/gf/net/ghttp"
 )
 
 func MiddlewareAuth(r *ghttp.Request) {

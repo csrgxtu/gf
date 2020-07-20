@@ -1,8 +1,8 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 package gview
 
@@ -10,25 +10,25 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/gogf/gf/encoding/ghash"
-	"github.com/gogf/gf/internal/intlog"
-	"github.com/gogf/gf/os/gfcache"
-	"github.com/gogf/gf/os/gfsnotify"
-	"github.com/gogf/gf/os/gmlock"
-	"github.com/gogf/gf/text/gstr"
-	"github.com/gogf/gf/util/gconv"
-	"github.com/gogf/gf/util/gutil"
+	"github.com/csrgxtu/gf/encoding/ghash"
+	"github.com/csrgxtu/gf/internal/intlog"
+	"github.com/csrgxtu/gf/os/gfcache"
+	"github.com/csrgxtu/gf/os/gfsnotify"
+	"github.com/csrgxtu/gf/os/gmlock"
+	"github.com/csrgxtu/gf/text/gstr"
+	"github.com/csrgxtu/gf/util/gconv"
+	"github.com/csrgxtu/gf/util/gutil"
 	htmltpl "html/template"
 	"strconv"
 	"strings"
 	texttpl "text/template"
 
-	"github.com/gogf/gf/os/gres"
+	"github.com/csrgxtu/gf/os/gres"
 
-	"github.com/gogf/gf/container/gmap"
-	"github.com/gogf/gf/os/gfile"
-	"github.com/gogf/gf/os/glog"
-	"github.com/gogf/gf/os/gspath"
+	"github.com/csrgxtu/gf/container/gmap"
+	"github.com/csrgxtu/gf/os/gfile"
+	"github.com/csrgxtu/gf/os/glog"
+	"github.com/csrgxtu/gf/os/gspath"
 )
 
 const (

@@ -1,8 +1,8 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 // Package gview implements a template engine based on text/template.
 //
@@ -11,14 +11,14 @@
 package gview
 
 import (
-	"github.com/gogf/gf/container/gmap"
-	"github.com/gogf/gf/internal/intlog"
+	"github.com/csrgxtu/gf/container/gmap"
+	"github.com/csrgxtu/gf/internal/intlog"
 
-	"github.com/gogf/gf"
-	"github.com/gogf/gf/container/garray"
-	"github.com/gogf/gf/internal/cmdenv"
-	"github.com/gogf/gf/os/gfile"
-	"github.com/gogf/gf/os/glog"
+	"github.com/csrgxtu/gf"
+	"github.com/csrgxtu/gf/container/garray"
+	"github.com/csrgxtu/gf/internal/cmdenv"
+	"github.com/csrgxtu/gf/os/gfile"
+	"github.com/csrgxtu/gf/os/glog"
 )
 
 // View object for template engine.

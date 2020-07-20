@@ -1,16 +1,16 @@
-// Copyright 2019 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2019 gf Author(https://github.com/csrgxtu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with gm file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/csrgxtu/gf.
 
 package gmap_test
 
 import (
 	"fmt"
-	"github.com/gogf/gf/frame/g"
+	"github.com/csrgxtu/gf/frame/g"
 
-	"github.com/gogf/gf/container/gmap"
+	"github.com/csrgxtu/gf/container/gmap"
 )
 
 func ExampleNew() {

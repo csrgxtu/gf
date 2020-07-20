@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gogf/gf/net/gtcp"
+	"github.com/csrgxtu/gf/net/gtcp"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gogf/gf/util/gutil"
+	"github.com/csrgxtu/gf/util/gutil"
 )
 
 func main() {

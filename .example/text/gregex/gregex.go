@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gogf/gf/text/gregex"
+	"github.com/csrgxtu/gf/text/gregex"
 )
 
 func main() {
